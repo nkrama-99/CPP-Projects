@@ -1,0 +1,21 @@
+maxShape 10
+create rama triangle 1 2 3 4 
+
+
+cd ..
+cd parser
+make
+cd ..
+cd exe
+./parser.exe
+
+
+
+
+
+maxShapes 5
+create ani1 triangle 1 2 3 4
+create ani2 triangle 1 2 3 4
+create ani3 triangle 1 2 3 4
+create ani4 triangle 1 2 3 4
+create ani5 triangle 1 2 3 4
