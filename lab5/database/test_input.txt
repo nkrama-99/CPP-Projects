@@ -1,0 +1,12 @@
+insert f
+insert d
+insert k
+insert b
+insert e
+insert i
+insert l
+insert a
+insert c
+insert g
+insert j
+insert h
